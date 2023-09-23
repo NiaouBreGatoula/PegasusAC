@@ -22,20 +22,20 @@ Please keep in mind that Pegasus is a powerful anticheat with many detection fea
 After installing the script and connecting to the Pegasus Server in your cfx console, it's time to proceed and read the documentation I've prepared for you in the [Pegasus GitBook](https://discord.gg/Hv64aS6xvs)
 
 # Q&A (Questions and Answers)
-Q: Does Pegasus Anticheat Completely Stop Spoofing?
-A: No, Pegasus can't completely stop spoofing, but it makes it much harder for cheaters to avoid bans.
+Q: Does Pegasus Anticheat Completely Stop Spoofing?  
+     A: No, Pegasus can't completely stop spoofing, but it makes it much harder for cheaters to avoid bans.
 
 
 Q: Do New Players Sometimes Get Incorrectly Banned?
-A: Yes and no. Whether new players get falsely banned depends on how you set up your server. You can reduce false bans by adjusting specific protection settings. In my extensive testing, out of 400 spoofing attempts, only five players got wrongly banned. This is quite rare if your server's settings match its needs.
+    A: Yes and no. Whether new players get falsely banned depends on how you set up your server. You can reduce false bans by adjusting specific protection settings. In my extensive testing, out of 400 spoofing attempts, only five players got wrongly banned. This is quite rare if your server's settings match its needs.
 
 
 Q: Is Pegasus Free?
-A: If you download our anticheat during the beta phase, you'll receive a lifetime key. Afterward, the licenses will be available at a very affordable price.
+    A: If you download our anticheat during the beta phase, you'll receive a lifetime key. Afterward, the licenses will be available at a very affordable price.
 
 
 Q: Is it Open Source?
-A: No.
+    A: No.
 
 
 # Showcase
