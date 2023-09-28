@@ -1,4 +1,4 @@
-![wallpaper_discord_01-1](https://github.com/georgemos940/PegasusAC/assets/67291791/40c3c872-8a23-440a-b76f-63d8f7d8d457)# PegasusAC
+# PegasusAC
 Introducing the Most Powerful and Affordable FiveM Anticheat | Secure Your Server Today
   <img src="https://i.imgur.com/aXb60J3.png" title="Screenshot 1">
 # About Us - PegasusAC History
