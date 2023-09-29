@@ -18,7 +18,7 @@ To install Pegasus, you'll need MySQL and the screenshot-basic resource. After t
 Please keep in mind that Pegasus is a powerful anticheat with many detection features. Spending enough time configuring it properly is crucial to avoid false bans. 30 minutes isn't too long to secure your server effectively.
 
 # Documentation
-After installing the script and connecting to the Pegasus Server in your cfx console, it's time to proceed and read the documentation I've prepared for you in the [Pegasus GitBook](https://discord.gg/Hv64aS6xvs)
+After installing the script and connecting to the Pegasus Server in your cfx console, it's time to proceed and read the documentation I've prepared for you in the Pegasus GitBook that you will find in my discord channel #pegasus-gitbook
 
 # Q&A (Questions and Answers)
 Q: Does Pegasus Anticheat Completely Stop Spoofing?  
