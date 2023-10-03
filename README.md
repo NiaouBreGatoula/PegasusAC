@@ -47,9 +47,11 @@ Q: Is it Open Source?
 # Showcase
 [![Video 1](https://img.youtube.com/vi/5cY1V7LxT5Q/0.jpg)](https://www.youtube.com/watch?v=5cY1V7LxT5Q)
 <p align="center">
-  <img src="https://i.imgur.com/IBQqaHX.png" width="350" title="Screenshot 1">
-  <img src="https://i.imgur.com/eoUu6f0.png" width="350" title="Screenshot 2">
-  <img src="https://i.imgur.com/4TJQUWA.png" width="350" title="Screenshot 3">
+  <img src="https://i.imgur.com/uStMxKW.png" width="350" title="Screenshot 1">
+  <img src="https://i.imgur.com/PI84vxu.png" width="350" title="Screenshot 2">
+   <img src="https://i.imgur.com/ftGG6aY.png" width="350" title="Screenshot 3">
+   <img src="https://i.imgur.com/gZHRQqM.png" width="350" title="Screenshot 4">
+   <img src="https://i.imgur.com/a0lero3.png" width="350" title="Screenshot 5">
 </p>
 
 
