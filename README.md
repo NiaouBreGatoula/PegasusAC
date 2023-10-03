@@ -9,7 +9,7 @@ Introducing the Most Powerful Free FiveM Anticheat | Secure Your Server Today
 ![wallpaper_discord_01-1](https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/e6b26758-9866-4088-af38-84c55d3f776a)
 
 # About Us - PegasusAC History
-The inception of Pegasus Anticheat originated from a simple yet compelling idea: crafting a script that could discern players attempting to access our server after utilizing a spoofer. Based in Greece, I was actively involved in both playing on and developing for Greek-listed FiveM servers. Unfortunately, it was evident that cheaters in this community posed a significant challenge. However, this challenge became an opportunity for growth, as I learned from some of the best in the business ;) 
+The inception of Pegasus Anticheat originated from a simple yet compelling idea: crafting a script that could discern players attempting to access our server after utilizing a spoofer. Based in Greece, I was actively involved in both playing on and developing for Greek-listed FiveM servers. Unfortunately, it was evident that cheaters in this community posed a significant challenge. However, this challenge became an opportunity for growth, as I learned from some of the best in the business 😏
 
 While assisting friends in safeguarding their servers from cheaters, I encountered instances where certain individuals openly mocked server administrators, boasting that they could easily evade bans and swiftly return. It was during these moments that I contemplated potential solutions, leading to the inception of the Pegasus idea.
 
