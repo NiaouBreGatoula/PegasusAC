@@ -45,8 +45,8 @@ Q: Is it Open Source?
 
 
 # Showcase
-[Video #1](https://www.youtube.com/watch?v=5cY1V7LxT5Q&t=130s)
-[Video #2](https://www.youtube.com/watch?v=SIAua9y58Iw&t=14s)
+[![Video 1](https://img.youtube.com/vi/5cY1V7LxT5Q/0.jpg)](https://www.youtube.com/watch?v=5cY1V7LxT5Q)
+[![Video 2](https://img.youtube.com/vi/SIAua9y58Iw/0.jpg)](https://www.youtube.com/watch?v=SIAua9y58Iw&t)
 <p align="center">
   <img src="https://i.imgur.com/IBQqaHX.png" width="350" title="Screenshot 1">
   <img src="https://i.imgur.com/eoUu6f0.png" width="350" title="Screenshot 2">
