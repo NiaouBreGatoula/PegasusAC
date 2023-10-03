@@ -32,7 +32,7 @@ Q: Does Pegasus Anticheat Completely Stop Spoofing?
 > A: No, Pegasus can't completely stop spoofing, but it makes it much harder for cheaters to avoid bans.
 
 
-Q: Do New Players Sometimes Get Incorrectly Banned?
+Q: Do New Players Sometimes Get Incorrectly Banned for Spoofing?
 > A: Yes and no. Whether new players get falsely banned depends on how you set up your server. You can reduce false bans by adjusting specific protection settings. In my extensive testing, out of 400 spoofing attempts, only five players got wrongly banned. This is quite rare if your server's settings match its needs.
 
 
