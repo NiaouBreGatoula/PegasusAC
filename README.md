@@ -18,7 +18,7 @@ My journey began with a 1000-line server-side script, meticulously analyzing var
 When a player connects to your server, crucial information such as their SteamHex, IP address, and license becomes available for scrutiny. Armed with this data, I was able to devise strategies to discern what spoofers attempted to accomplish. Spoiler alert: it's relatively straightforward! Spoofers aim to conceal themselves from your server to circumvent your banning techniques. So, what if you could develop a script to detect such evasive behavior? The answer was clear: yes, it was entirely feasible.
 
 # Installation
-To install PegasusAC, please join our [Discord Server](https://discord.gg/Hv64aS6xvs) and follow the instructions in the 🛒│claim-pegasus channel.
+To install PegasusAC, please join our [Discord Server](https://discord.gg/nXjDw9g3WC) and follow the instructions in the 🛒│claim-pegasus channel.
 
 # Requirments
 To install Pegasus, you'll need MySQL and the screenshot-basic resource. After that, launch Pegasus, and it's good to go!
