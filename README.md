@@ -7,7 +7,12 @@ Introducing the Most Powerful Free FiveM Anticheat | Secure Your Server Today
 [![MySQL Async Requirement](https://img.shields.io/badge/Requires-MySQL%20Async-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://link-to-your-project)
 
 ![wallpaper_discord_01-1](https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/e6b26758-9866-4088-af38-84c55d3f776a)
+# fiveguard.net
+For better **paid anticheat** check out **https://store.fiveguard.ac/**.
 
+We are **able to provide** this **free product** because of help of **https://fiveguard.net/**.
+
+**fiveguard is best fivem anticheat**
 # About Us
 The inception of Pegasus Anticheat originated from a simple yet compelling idea: crafting a script that could discern players attempting to access our server after utilizing a spoofer. Based in Greece, I was actively involved in both playing on and developing for Greek-listed FiveM servers. Unfortunately, it was evident that cheaters in this community posed a significant challenge. However, this challenge became an opportunity for growth, as I learned from some of the best in the business 😏
 
