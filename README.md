@@ -46,7 +46,7 @@ Q: Is Pegasus Free?
 
 
 Q: Is it Open Source?
-> A: No.
+> A:Unfortunately, we cannot make our product open source at this time due to the issue of people reselling it without authorization. We believe that maintaining control over who can access and claim our product is essential to prevent misuse.
 
 
 # Showcase
