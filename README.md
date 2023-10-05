@@ -1,4 +1,5 @@
 # PegasusAC
+[![Join our Discord](https://img.shields.io/discord/1113814297999581245?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nXjDw9g3WC)
 
 Introducing the Most Powerful Free FiveM Anticheat | Secure Your Server Today
 
