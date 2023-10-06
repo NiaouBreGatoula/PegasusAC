@@ -6,9 +6,8 @@ Introducing the Most Powerful Free Anticheat | Secure Your Server Today
 [![axios v1.2.1](https://img.shields.io/badge/axios-1.2.1-blue?style=for-the-badge)](https://link-to-axios-documentation)
 [![Screenshot - Basic](https://img.shields.io/badge/Screenshot-Basic-blue?style=for-the-badge&logo=camera&logoColor=white)](https://link-to-your-screenshot)
 [![MySQL Async Requirement](https://img.shields.io/badge/Requires-MySQL%20Async-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://link-to-your-project)
-[![OneSync Requirement](https://img.shields.io/badge/OneSync-Required-brightgreen?style=for-the-badge)](https://link-to-onesync-documentation)
-[![Latest Artifacts Requirement](https://img.shields.io/badge/Latest%20Artifacts-Required-brightgreen?style=for-the-badge)](https://link-to-artifacts-documentation)
-
+[![OneSync Requirement](https://img.shields.io/badge/OneSync-Required-blue?style=for-the-badge)](https://link-to-onesync-documentation)
+[![Latest Artifacts Requirement](https://img.shields.io/badge/Latest%20Artifacts-Required-blue?style=for-the-badge)](https://link-to-artifacts-documentation)
 ![wallpaper_discord_01-1](https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/e6b26758-9866-4088-af38-84c55d3f776a)
 
 # fiveguard.net
