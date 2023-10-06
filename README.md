@@ -1,7 +1,7 @@
 # PegasusAC
 [![Join our Discord](https://img.shields.io/discord/1113814297999581245?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nXjDw9g3WC)
 
-Introducing the Most Powerful Free FiveM Anticheat | Secure Your Server Today
+Introducing the Most Powerful Free Anticheat | Secure Your Server Today
 
 [![axios v1.2.1](https://img.shields.io/badge/axios-1.2.1-blue?style=for-the-badge)](https://link-to-axios-documentation)
 [![Screenshot - Basic](https://img.shields.io/badge/Screenshot-Basic-blue?style=for-the-badge&logo=camera&logoColor=white)](https://link-to-your-screenshot)
