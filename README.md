@@ -1,7 +1,7 @@
 # PegasusAC
 [![Join our Discord](https://img.shields.io/discord/1113814297999581245?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nXjDw9g3WC)
 
-Introducing the Most Powerful Anticheat | Secure Your Server Today
+Introducing the Most Powerful FiveM Anticheat | Secure Your Server Today
 
 [![axios v1.2.1](https://img.shields.io/badge/axios-1.2.1-blue?style=for-the-badge)](https://link-to-axios-documentation)
 [![Screenshot - Basic](https://img.shields.io/badge/Screenshot-Basic-blue?style=for-the-badge&logo=camera&logoColor=white)](https://link-to-your-screenshot)[![MySQL Async Requirement](https://img.shields.io/badge/MySQL%20Async-Required-blue?style=for-the-badge&logo=mysql&logoColor=white)](https://link-to-your-project)
@@ -46,7 +46,7 @@ Q: Do New Players Sometimes Get Incorrectly Banned for Spoofing?
 
 
 Q: Is Pegasus Free?
-> A: If you download our anticheat during the beta phase, you'll receive a lifetime key. Afterward, the licenses will be available at a very affordable price.
+> A: No, it's an incredibly affordable offer for a lifetime access, available only during the beta release days.
 
 
 Q: Is it Open Source?
