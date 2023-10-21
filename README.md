@@ -64,7 +64,6 @@ Q: Is it Open Source?
   <img src="https://i.imgur.com/PI84vxu.png" width="350" title="Screenshot 2">
    <img src="https://i.imgur.com/ftGG6aY.png" width="350" title="Screenshot 3">
    <img src="https://i.imgur.com/gZHRQqM.png" width="350" title="Screenshot 4">
-   <img src="https://i.imgur.com/a0lero3.png" width="350" title="Screenshot 5">
 </p>
 
 
