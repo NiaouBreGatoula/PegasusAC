@@ -49,7 +49,7 @@ Q: Is Pegasus Free?
 > A: No, it's an incredibly affordable offer for a lifetime access, available only during the beta release days.
 
 Q: Why can't an anticheat be free?
-A: Generally, I don't aim to profit from FiveM development. However, I understand that in the process of developing an anticheat and offering it for free to the community, it can pose a significant vulnerability for many servers. Servers that seek security might find that offering something for free can be easily exploited by anyone who desires it. This is why many anticheat solutions come with a price.
+> A: Generally, I don't aim to profit from FiveM development. However, I understand that in the process of developing an anticheat and offering it for free to the community, it can pose a significant vulnerability for many servers. Servers that seek security might find that offering something for free can be easily exploited by anyone who desires it. This is why many anticheat solutions come with a price.
 
 Q: Is it Open Source?
 > A:Unfortunately, we cannot make our product open source at this time due to the issue of people reselling it without authorization. We believe that maintaining control over who can access and claim our product is essential to prevent misuse.
