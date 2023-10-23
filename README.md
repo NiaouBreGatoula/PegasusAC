@@ -7,10 +7,10 @@
 
 Introducing the Most Powerful FiveM Anticheat | Secure Your Server Today
 
-[![axios v1.2.1](https://img.shields.io/badge/axios-1.2.1-blue?style=for-the-badge)](https://link-to-axios-documentation)
-[![Screenshot - Basic](https://img.shields.io/badge/Screenshot-Basic-blue?style=for-the-badge&logo=camera&logoColor=white)](https://link-to-your-screenshot)
+[![Yarn](https://img.shields.io/badge/axios-1.2.1-blue?style=for-the-badge)](https://github.com/citizenfx/cfx-server-data/tree/master/resources/%5Bsystem%5D/%5Bbuilders%5D)
+[![Screenshot - Basic](https://img.shields.io/badge/Screenshot-Basic-blue?style=for-the-badge&logo=camera&logoColor=white)](https://github.com/citizenfx/screenshot-basic)
 ![MySQL Async Requirement](https://img.shields.io/badge/MySQL%20Async-Required-blue?style=for-the-badge&logo=mysql&logoColor=white)
-[![OneSync Requirement](https://img.shields.io/badge/OneSync-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://link-to-onesync-documentation)
+[![OneSync Requirement](https://img.shields.io/badge/OneSync-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://docs.fivem.net/docs/scripting-reference/onesync/)
 [![Latest Artifacts Requirement](https://img.shields.io/badge/Latest%20Artifacts-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/6683-9729577be50de537692c3a19e86365a5e0f99a54/server.7z)
 
 ![wallpaper_discord_01-1](https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/e6b26758-9866-4088-af38-84c55d3f776a)
