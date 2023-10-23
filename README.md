@@ -11,7 +11,7 @@ Introducing the Most Powerful FiveM Anticheat | Secure Your Server Today
 [![Screenshot - Basic](https://img.shields.io/badge/Screenshot-Basic-blue?style=for-the-badge&logo=camera&logoColor=white)](https://link-to-your-screenshot)
 ![MySQL Async Requirement](https://img.shields.io/badge/MySQL%20Async-Required-blue?style=for-the-badge&logo=mysql&logoColor=white)
 [![OneSync Requirement](https://img.shields.io/badge/OneSync-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://link-to-onesync-documentation)
-[![Latest Artifacts Requirement](https://img.shields.io/badge/Latest%20Artifacts-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://link-to-artifacts-documentation)
+[![Latest Artifacts Requirement](https://img.shields.io/badge/Latest%20Artifacts-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/6683-9729577be50de537692c3a19e86365a5e0f99a54/server.7z)
 
 ![wallpaper_discord_01-1](https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/e6b26758-9866-4088-af38-84c55d3f776a)
 
