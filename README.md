@@ -1,6 +1,10 @@
 # PegasusAC
 [![Join our Discord](https://img.shields.io/discord/1113814297999581245?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nXjDw9g3WC)
-[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/your-channel-url)
+[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCb8_VgKaeNMn7ww1nihNkdA)
+[![Follow on TikTok](https://img.shields.io/badge/Follow-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@pegasus.anticheat)
+[![Visit our Tebex Store](URL_TO_YOUR_BADGE_IMAGE)](https://your-tebex-store-url)
+
+
 Introducing the Most Powerful FiveM Anticheat | Secure Your Server Today
 
 [![axios v1.2.1](https://img.shields.io/badge/axios-1.2.1-blue?style=for-the-badge)](https://link-to-axios-documentation)
