@@ -7,7 +7,7 @@
 
 Introducing the Most Powerful FiveM Anticheat | Secure Your Server Today
 
-[![Axios](https://img.shields.io/badge/axios-1.2.1-blue?style=for-the-badge)](https://github.com/citizenfx/cfx-server-data/tree/master/resources/%5Bsystem%5D/%5Bbuilders%5D)
+[![Yarn](https://img.shields.io/badge/Yarn-blue?style=for-the-badge)](https://github.com/citizenfx/cfx-server-data/tree/master/resources/%5Bsystem%5D/%5Bbuilders%5D)
 [![Screenshot - Basic](https://img.shields.io/badge/Screenshot-Basic-blue?style=for-the-badge&logo=camera&logoColor=white)](https://github.com/citizenfx/screenshot-basic)
 ![MySQL Async Requirement](https://img.shields.io/badge/MySQL%20Async-Required-blue?style=for-the-badge&logo=mysql&logoColor=white)
 [![OneSync Requirement](https://img.shields.io/badge/OneSync-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://docs.fivem.net/docs/scripting-reference/onesync/)
