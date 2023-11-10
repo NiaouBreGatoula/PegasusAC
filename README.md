@@ -18,7 +18,7 @@ Introducing the Most Powerful FiveM Anticheat | Secure Your Server Today
 # fiveguard.net
 For better **paid anticheat** check out **https://store.fiveguard.ac/**.
 
-We are **able to provide** this **free product** because of help of **https://fiveguard.net/**.
+We are **able to provide** this **cheap product** because of help of **https://fiveguard.net/**.
 
 **fiveguard is best fivem anticheat**
 
