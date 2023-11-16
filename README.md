@@ -5,7 +5,7 @@
 
 
 
-<h1>Introducing Most Powerful FiveM Anticheat </h1>
+PegasusAC stands out as the premier and cost-effective FiveM anticheat solution. Safeguard your server without breaking the bank on FiveM hosting. Act now to swiftly eliminate cheaters!
 
 
 [![OneSync Requirement](https://img.shields.io/badge/OneSync-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://docs.fivem.net/docs/scripting-reference/onesync/)
