@@ -2,6 +2,8 @@
 
 # **PegasusAC**
 
+**[Join Discord](https://discord.com/invite/nXjDw9g3WC)**
+
 **PegasusAC stands out as the premier and cost-effective FiveM anticheat solution. Safeguard your server without breaking the bank on FiveM hosting. Act now to swiftly eliminate cheaters!**
 
 </div>
