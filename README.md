@@ -5,7 +5,7 @@
 
 
 
-<h1>Introducing the Most Powerful FiveM Anticheat | Secure Your Server Today</h1>
+<h1>Introducing Most Powerful FiveM Anticheat | Secure Your Server Today</h1>
 
 
 [![OneSync Requirement](https://img.shields.io/badge/OneSync-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://docs.fivem.net/docs/scripting-reference/onesync/)
