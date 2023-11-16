@@ -1,16 +1,18 @@
-# PegasusAC
-[![Join our Discord](https://img.shields.io/discord/1113814297999581245?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nXjDw9g3WC)
-[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCb8_VgKaeNMn7ww1nihNkdA)
-[![Follow on TikTok](https://img.shields.io/badge/Follow-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@pegasus.anticheat)
+<div align="center">
 
+# **PegasusAC**
 
+**PegasusAC** stands out as the premier and cost-effective FiveM anticheat solution. Safeguard your server without breaking the bank on FiveM hosting. Act now to swiftly eliminate cheaters!
 
-PegasusAC stands out as the premier and cost-effective FiveM anticheat solution. Safeguard your server without breaking the bank on FiveM hosting. Act now to swiftly eliminate cheaters!
+</div>
+
 
 
 [![OneSync Requirement](https://img.shields.io/badge/OneSync-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://docs.fivem.net/docs/scripting-reference/onesync/)
 [![Latest Artifacts Requirement](https://img.shields.io/badge/Latest%20Artifacts-Required-blue?style=for-the-badge&logo=fivem&logoColor=white)](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/6683-9729577be50de537692c3a19e86365a5e0f99a54/server.7z)
-
+[![Join our Discord](https://img.shields.io/discord/1113814297999581245?color=7289DA&label=Join%20our%20Discord&logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/nXjDw9g3WC)
+[![Subscribe on YouTube](https://img.shields.io/badge/Subscribe-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCb8_VgKaeNMn7ww1nihNkdA)
+[![Follow on TikTok](https://img.shields.io/badge/Follow-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@pegasus.anticheat)
 ![wallpaper_discord_01-1](https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/e6b26758-9866-4088-af38-84c55d3f776a)
 
 # fiveguard.net
