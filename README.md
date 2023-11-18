@@ -62,15 +62,21 @@ Q: Why can't an anticheat be free?
 Q: Is it Open Source?
 > A:Unfortunately, we cannot make our product open source at this time due to the issue of people reselling it without authorization. We believe that maintaining control over who can access and claim our product is essential to prevent misuse.
 
-
 # Showcase
-[![Video 1](https://img.youtube.com/vi/5cY1V7LxT5Q/0.jpg)](https://www.youtube.com/watch?v=5cY1V7LxT5Q)
+
 <p align="center">
-  <img src="https://i.imgur.com/uStMxKW.png" width="350" title="Screenshot 1">
-  <img src="https://i.imgur.com/PI84vxu.png" width="350" title="Screenshot 2">
-   <img src="https://i.imgur.com/ftGG6aY.png" width="350" title="Screenshot 3">
-   <img src="https://i.imgur.com/gZHRQqM.png" width="350" title="Screenshot 4">
+  <a href="https://www.youtube.com/watch?v=5cY1V7LxT5Q">
+    <img src="https://img.youtube.com/vi/5cY1V7LxT5Q/0.jpg" alt="Video 1">
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://i.imgur.com/uStMxKW.png" width="350" alt="Screenshot 1">
+  <img src="https://i.imgur.com/PI84vxu.png" width="350" alt="Screenshot 2">
+  <img src="https://i.imgur.com/ftGG6aY.png" width="350" alt="Screenshot 3">
+  <img src="https://i.imgur.com/gZHRQqM.png" width="350" alt="Screenshot 4">
+</p>
+
 
 
 
