@@ -45,7 +45,7 @@ Please keep in mind that Pegasus is a powerful anticheat with many detection fea
 After installing the script and connecting to the Pegasus Server in your cfx console, it's time to proceed and read the documentation I've prepared for you in the Pegasus GitBook that you will find in my discord channel #pegasus-gitbook
 
 # Q&A (Questions and Answers)
-Q: Does Pegasus Anticheat Completely Stop Spoofing?  
+Q: Does Pegasus Completely Stop Spoofing?  
 > A: No, Pegasus can't completely stop spoofing, but it makes it much harder for cheaters to avoid bans.
 
 
