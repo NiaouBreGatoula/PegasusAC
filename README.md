@@ -67,6 +67,11 @@ Q: Is it Open Source?
 # Showcase
 
 <p align="center">
+  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/aea36d71-90f3-489e-9ea8-1989f3e0f19f" alt="GIF 1" width="500">
+  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/0f5e4168-dda0-497e-9f3d-dbfbeae65aa2" alt="GIF 2" width="500">
+</p>
+
+<p align="center">
   <a href="https://www.youtube.com/watch?v=5cY1V7LxT5Q">
     <img src="https://img.youtube.com/vi/5cY1V7LxT5Q/0.jpg" alt="Video 1">
   </a>
@@ -78,6 +83,7 @@ Q: Is it Open Source?
   <img src="https://i.imgur.com/ftGG6aY.png" width="350" alt="Screenshot 3">
   <img src="https://i.imgur.com/gZHRQqM.png" width="350" alt="Screenshot 4">
 </p>
+
 
 
 
