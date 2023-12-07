@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🐎**PegasusAC**
+# **PegasusAC**
 
 **[Join Discord](https://discord.com/invite/nXjDw9g3WC)**
 
