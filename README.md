@@ -18,6 +18,8 @@
 ![wallpaper_discord_01-1](https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/e6b26758-9866-4088-af38-84c55d3f776a)
 
 # fiveguard.net
+[![Advertisement](https://img.shields.io/badge/Advertisement-Featured-yellow?style=for-the-badge)](https://https://store.fiveguard.ac/)
+
 For better **paid anticheat** check out **https://store.fiveguard.ac/**.
 
 We are **able to provide** this **cheap product** because of help of **https://fiveguard.net/**.
