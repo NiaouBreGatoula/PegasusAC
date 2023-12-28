@@ -82,8 +82,6 @@ Q: Is it Open Source?
 <p align="center">
   <img src="https://i.imgur.com/uStMxKW.png" width="350" alt="Screenshot 1">
   <img src="https://i.imgur.com/PI84vxu.png" width="350" alt="Screenshot 2">
-  <img src="https://i.imgur.com/ftGG6aY.png" width="350" alt="Screenshot 3">
-  <img src="https://i.imgur.com/gZHRQqM.png" width="350" alt="Screenshot 4">
 </p>
 
 
