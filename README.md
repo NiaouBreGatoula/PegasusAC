@@ -1,4 +1,4 @@
-<div align="center">
+![88ed17cb65a9f6c8982b1d69d0a8f6a7a0c5de02-ezgif com-censor](https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/72f6632f-782f-4152-aae1-5dbd06df4413)<div align="center">
 
 # **PegasusAC**
 
@@ -28,6 +28,11 @@ While assisting friends in safeguarding their servers from cheaters, I encounter
 My journey began with a 1000-line server-side script, meticulously analyzing various player attributes upon connecting to the server. This script, in the end, possessed the remarkable capability to distinguish between legitimate players and hackers who had previously evaded bans on our server.
 
 When a player connects to your server, crucial information such as their SteamHex, IP address, and license becomes available for scrutiny. Armed with this data, I was able to devise strategies to discern what spoofers attempted to accomplish. Spoiler alert: it's relatively straightforward! Spoofers aim to conceal themselves from your server to circumvent your banning techniques. So, what if you could develop a script to detect such evasive behavior? The answer was clear: yes, it was entirely feasible.
+
+<p align="center">
+  ![88ed17cb65a9f6c8982b1d69d0a8f6a7a0c5de02](https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/79ad648d-f3ad-46ed-a0f3-034d071b7485)
+![a4cdba9ccfbb93dfe4d9ebec715e2e965ca213bd-ezgif com-crop](https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/e86bde6e-8dbb-43a7-a7cc-3fc1172ea3c1)
+</p>
 
 # Installation
 To install PegasusAC, please join our [Discord Server](https://discord.gg/nXjDw9g3WC) and check 🛒│claim-pegasus channel.
