@@ -29,8 +29,7 @@ When a player connects to your server, crucial information such as their SteamHe
 
 
 <p align="center">
-  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/72f6632f-782f-4152-aae1-5dbd06df4413" alt="GIF 1" width="420">
-  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/db587bd4-b1a1-4d82-9a87-297a3ce7416a" alt="GIF 2" width="420">
+  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/db587bd4-b1a1-4d82-9a87-297a3ce7416a" alt="GIF 2" width="620">
 </p>
 
 
@@ -43,6 +42,9 @@ Please keep in mind that Pegasus is a powerful anticheat with many detection fea
 
 # Documentation
 After installing the script and connecting to the Pegasus Server in your cfx console, it's time to proceed and read the documentation I've prepared for you in the Pegasus GitBook that you will find in my discord channel #pegasus-gitbook
+<p align="center">
+  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/72f6632f-782f-4152-aae1-5dbd06df4413" alt="GIF 1" width="620">
+</p>
 
 # Q&A (Questions and Answers)
 Q: Does Pegasus Completely Stop Spoofing?  
@@ -54,7 +56,9 @@ Q: Do New Players Sometimes Get Incorrectly Banned for Spoofing?
 
 Q: Does PegasusAC receive updates?
 > A: Yes, we constantly update our anticheat to actively identify and we try to block new cheats before they become popular among cheaters.
-
+<p align="center">
+   <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/aea36d71-90f3-489e-9ea8-1989f3e0f19f" alt="GIF 3" width="620">
+</p>
 Q: Is Pegasus Free?
 > A: No, it's an incredibly affordable offer for a lifetime access, available for that price only during the beta release days.
 
@@ -67,8 +71,7 @@ Q: Is it Open Source?
 # Showcase
 
 <p align="center">
-  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/aea36d71-90f3-489e-9ea8-1989f3e0f19f" alt="GIF 1" width="500">
-  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/0f5e4168-dda0-497e-9f3d-dbfbeae65aa2" alt="GIF 2" width="500">
+  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/0f5e4168-dda0-497e-9f3d-dbfbeae65aa2" alt="GIF 4" width="620">
 </p>
 
 <p align="center">
