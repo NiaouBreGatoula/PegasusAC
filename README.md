@@ -29,8 +29,8 @@ When a player connects to your server, crucial information such as their SteamHe
 
 
 <p align="center">
-  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/72f6632f-782f-4152-aae1-5dbd06df4413" alt="GIF 1" width="250">
-  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/db587bd4-b1a1-4d82-9a87-297a3ce7416a" alt="GIF 2" width="250">
+  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/72f6632f-782f-4152-aae1-5dbd06df4413" alt="GIF 1" width="350">
+  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/db587bd4-b1a1-4d82-9a87-297a3ce7416a" alt="GIF 2" width="350">
 </p>
 
 
