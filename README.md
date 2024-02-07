@@ -35,6 +35,9 @@ When a player connects to your server, crucial information such as their SteamHe
 
 # Installation
 To install PegasusAC, please join our [Discord Server](https://discord.gg/nXjDw9g3WC) and check 🛒│claim-pegasus channel.
+<p align="center">
+   <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/aea36d71-90f3-489e-9ea8-1989f3e0f19f" alt="GIF 3" width="620">
+</p>
 
 # Requirments
 To install Pegasus, you'll need MySQL and the screenshot-basic resource. After that, launch Pegasus, and it's good to go!
@@ -56,9 +59,7 @@ Q: Do New Players Sometimes Get Incorrectly Banned for Spoofing?
 
 Q: Does PegasusAC receive updates?
 > A: Yes, we constantly update our anticheat to actively identify and we try to block new cheats before they become popular among cheaters.
-<p align="center">
-   <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/aea36d71-90f3-489e-9ea8-1989f3e0f19f" alt="GIF 3" width="620">
-</p>
+
 Q: Is Pegasus Free?
 > A: No, it's an incredibly affordable offer for a lifetime access, available for that price only during the beta release days.
 
