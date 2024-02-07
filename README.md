@@ -27,8 +27,11 @@ My journey began with a 1000-line server-side script, meticulously analyzing var
 
 When a player connects to your server, crucial information such as their SteamHex, IP address, and license becomes available for scrutiny. Armed with this data, I was able to devise strategies to discern what spoofers attempted to accomplish. Spoiler alert: it's relatively straightforward! Spoofers aim to conceal themselves from your server to circumvent your banning techniques. So, what if you could develop a script to detect such evasive behavior? The answer was clear: yes, it was entirely feasible.
 
-![88ed17cb65a9f6c8982b1d69d0a8f6a7a0c5de02-ezgif com-censor](https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/72f6632f-782f-4152-aae1-5dbd06df4413)<div align="center">
-![a4cdba9ccfbb93dfe4d9ebec715e2e965ca213bd-ezgif com-crop](https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/e86bde6e-8dbb-43a7-a7cc-3fc1172ea3c1)
+
+<p align="center">
+  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/72f6632f-782f-4152-aae1-5dbd06df4413" alt="GIF 1" width="500">
+  <img src="https://github.com/NiaouBreGatoula/PegasusAC/assets/67291791/db587bd4-b1a1-4d82-9a87-297a3ce7416a" alt="GIF 2" width="500">
+</p>
 
 
 # Installation
