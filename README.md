@@ -1,6 +1,6 @@
-#               **PegasusAC**
+#               **PegasusAC (+AdminMenu)**
 
-**[Join Discord](https://discord.com/invite/nXjDw9g3WC)**
+**[Join Discord](https://discord.gg/d3kKeySCCB)**
 
 **PegasusAC FiveM Anticheat stands out as the premier and cost-effective FiveM anticheat solution. Safeguard your server without breaking the bank on FiveM hosting. Act now to swiftly eliminate cheaters!**
 
@@ -64,6 +64,16 @@ Q: Why can't an anticheat be free?
 > A: Generally, I don't aim to profit from FiveM development. However, I understand that in the process of developing an anticheat and offering it for free to the community, it can pose a significant vulnerability for many servers. Servers that seek security might find that offering something for free can be easily exploited by anyone who desires it. This is why many anticheat solutions come with a price.
 Q: Is it Open Source?
 > A:Unfortunately, we cannot make our product open source at this time due to the issue of people reselling it without authorization. We believe that maintaining control over who can access and claim our product is essential to prevent misuse. However we are seeking your trust, which is why we utilize the Tebex escrow system, ensuring the safety of our files.
+
+
+
+# PegasusMenu
+![image2](https://github.com/user-attachments/assets/d9fbcfbe-e21a-4a1a-bed7-31f8956f4af1)
+![image](https://github.com/user-attachments/assets/394f7576-0ba0-4637-a5a5-bc1877851586)
+![3image](https://github.com/user-attachments/assets/fa391748-91e8-4737-92e4-79d56407a2e0)
+![image5](https://github.com/user-attachments/assets/e8077446-2679-49bb-a437-f54184b102aa)
+
+
 # Showcase
 
 <p align="center">
