@@ -34,7 +34,7 @@ When a player connects to your server, crucial information such as their SteamHe
 
 
 # Installation
-To install PegasusAC, please join our [Discord Server](https://discord.gg/nXjDw9g3WC) and check 🛒│claim-pegasus channel.
+To install PegasusAC, please join our [Discord Server](https://discord.gg/d3kKeySCCB) and check 🛒│claim-pegasus channel.
 
 
 # Requirments
