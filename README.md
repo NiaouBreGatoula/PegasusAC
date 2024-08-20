@@ -1,4 +1,4 @@
-#               **PegasusAC (+AdminMenu)**
+#               **PegasusAC**
 
 **[Join Discord](https://discord.gg/d3kKeySCCB)**
 **[Visit our Website](https://pegasusac.net/)**
