@@ -1,4 +1,4 @@
-#               **PegasusAC**
+#               **PegasusAC - The Best FiveM Anticheat - 2024**
 
 **[Join Discord](https://discord.gg/d3kKeySCCB)**
 
