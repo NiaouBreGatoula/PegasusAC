@@ -70,11 +70,12 @@ Q: Is it Open Source?
 
 
 # PegasusMenu
-![image2](https://github.com/user-attachments/assets/d9fbcfbe-e21a-4a1a-bed7-31f8956f4af1)
-![image](https://github.com/user-attachments/assets/394f7576-0ba0-4637-a5a5-bc1877851586)
-![3image](https://github.com/user-attachments/assets/fa391748-91e8-4737-92e4-79d56407a2e0)
-![image5](https://github.com/user-attachments/assets/e8077446-2679-49bb-a437-f54184b102aa)
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=BA1mmUvFXf4">
+    <img src="https://img.youtube.com/vi/5cY1V7LxT5Q/0.jpg" alt="Video 1">
+  </a>
+</p>
 
 # Showcase
 
